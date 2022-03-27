@@ -20,7 +20,7 @@ export class MyElement extends LitElement {
     this.desc =
       'Creative website design with modern technology ,  Web App cloud POS and digital art solutions.';
     this.btn = 'Visit My Profile →';
-    this.btnurl = 'https://creativebydre.vercel.app';
+    this.btnurl = 'https://start.axcora.com';
   }
 
   render() {
