@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  height: 100vh;
+  width: 100vw;
+}
+a:link {
+  color: #1c2eba;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1c2eba;
+  text-decoration: none;
+}
+.btns {
+  color: #1c2eba;
+}
