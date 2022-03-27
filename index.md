@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Vite Lit
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/vitelit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![vite lit source code](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPuCOdLnngqjP2J1k3VXzBi4W3y3lT-L9VcDMm7vWYO3FTfcBv8vUmyBwomXpgjSOgiG8S7_9pSAK6oy_E5FNjFPiwG2cBZRPtUHgz3wggcQlbQxs4SGAa8heLZE8BMsUC9iSyXlRFBsElQZwnK3qPIubyrtX9kY8Fxi1c4rrqQK6MTp6g5qbXArQ_g/s1366/vite%20lit%20example%20web%20source%20code%20(3).png>)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vite lit example
 
-### Markdown
+Documentation [https://www.hockeycomputindo.com/2022/03/vite-lit-example-free-download-source.html](https://www.hockeycomputindo.com/2022/03/vite-lit-example-free-download-source.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![vite lit source code](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvBi7mWNzR6itsGQr4bqnN-Gz0B11nYVXqYW-6wrvPATY9R-1V4EJWP3wLQHBGR3ihbH26z74lZJFf_vXbu7wBxoXgNGggmCtlTyn2h3UFDmmlnUTHyEf0l7bkXD7p9BDiRxwFSKR28jLdl3__hX17LXE_J0FpdgOVahWuNgFU3I0XrkkG58widWhkGA/s1349/vite%20lit%20example%20web%20source%20code%20(4).png>)
 
-```markdown
-Syntax highlighted code block
+Blog page
 
-# Header 1
-## Header 2
-### Header 3
+![vite lit source code](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZlBA5_BhS7BE3gGLg9WZbprgfOM51-19XFb8Ho8Pu6YNkmxFpNy6lhtCmtA-tgyVHvaVl4S1yPg_xmmUg6GLtwAgE42vXmhyNZslxBuuFI3D3Z2MM3Psx_iL05sr3S2aatppxXeuPpN8E4aqfVMTufU1Kmj942TfPtFS0t-gtqbvIv11oSoreNx6AJA/s1349/vite%20lit%20example%20web%20source%20code%20(2).png>)
 
-- Bulleted
-- List
+Detail article
 
-1. Numbered
-2. List
+![vite lit source code](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK4IQnHWq0IioioXRUGLawS4ZOddTcOWv4SlxQg2OZ96vCAX1dozaV39wEWLBk8wuo0emIzgKC-wDBjFDsMBNvSn9kVGsrNYsQnElijTUY2KLyQfYbHPxaE2n-KVVL2VBqskszWRV6BKE12j50OLN27_MFYe1cM53reD8r_U6tB06n1rgdnIee0rjpBw/s1366/vite%20lit%20example%20web%20source%20code%20(1).png>)
 
-**Bold** and _Italic_ and `Code` text
+Animation
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Documentation [https://www.hockeycomputindo.com/2022/03/vite-lit-example-free-download-source.html](https://www.hockeycomputindo.com/2022/03/vite-lit-example-free-download-source.html)
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/vitelit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Push from StackBlitz ⚡️
